@@ -49,8 +49,7 @@ for i in range(0,len(jsondata)):
     title = jsondata[i]["title"]
 
     start = (int(start_time.split(":")[0]) * 3600 + int(start_time.split(":")[1]) * 60 + int(start_time.split(":")[2])) * 1000
-    end = (int(start_time.split(":")[0]) * 3600 + int(end_time.split(":")[1]) * 60 + int(end_time.split(":")[2])) * 1000
-
+    end = (int(end_time.split(":")[0]) * 3600 + int(end_time.split(":")[1]) * 60 + int(end_time.split(":")[2])) * 1000
     track_audio = audio[start:end]
     #print(f"/app/output/Track_{i+1}_{title}.mp3")
 
