@@ -1,34 +1,19 @@
-album  難忘的不朽情歌
-comments  This album is awesome!
+album  YOASOBI 人気曲15曲リスト
+comments  YOASOBI 人気曲15曲リスト
 start  00:00
-0:00  The Way You Are
-4:10  Yesterday Once More
-9:10  Nothings Gonna Change
-13:02  So Beautiful
-17:00  Its Enough
-20:58  I owe you
-24:11  Take me to your heart
-28:03  Growing old with you
-32:19  Ive been waiting
-36:31  Pretty pretty boy
-41:24  I can fly
-45:29  Wherever you go
-50:18  Mighty glad you stay
-53:53  Unbreak my heart
-57:37  Its too late
-1:01:25  Love Paradise
-1:04:45  A Little Love
-1:08:07  I Swear
-1:12:30  After ALL
-1:16:30  As Long As You Love Medina
-1:19:55  Betrayal
-1:24:41  Cant help falling in Love
-1:28:17  Close to you
-1:31:30  Destiny
-1:35:06  Everything I don
-1:39:41  How did i fall in love with you
-1:43:57  I want it that Way
-1:46:06  I've Been waiting for you
-1:50:21  If we hold on together
-1:54:02  Its not goodbye
-end  1:59:15
+00:00:00  01. 夜に駆ける
+00:04:19  02. 群青
+00:08:28  03. 怪物 English Ver.
+00:11:53  04. たぶん
+00:16:10  05. ラブレター
+00:19:44  06. 優しい彗星
+00:23:24  07. 三原色
+00:27:09  08. ハルジオン
+00:30:27  09. あの夢をなぞって
+00:34:29  10. ミスター
+00:37:36  11. もう少しだけ
+00:41:17  12. ハルカ
+00:45:21  13. もしも命が描けたら
+00:48:45  14. 大正浪漫
+00:51:45  15. アンコール
+end  00:56:17

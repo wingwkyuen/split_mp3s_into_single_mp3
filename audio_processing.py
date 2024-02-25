@@ -51,6 +51,6 @@ for i in range(0,len(jsondata)):
     start = (int(start_time.split(":")[0]) * 3600 + int(start_time.split(":")[1]) * 60 + int(start_time.split(":")[2])) * 1000
     end = (int(end_time.split(":")[0]) * 3600 + int(end_time.split(":")[1]) * 60 + int(end_time.split(":")[2])) * 1000
     track_audio = audio[start:end]
-    #print(f"/app/output/Track_{i+1}_{title}.mp3")
+    print(f"/app/output/Track_{i+1}_{title}.mp3")
 
-    track_audio.export(f"/app/output/Track_{i+1}_{title}.mp3", format="mp3", tags={'artist': title , 'album': album, 'comments': comments})
+    track_audio.export(f"./output/Track_{i+1}_{title}.mp3", format="mp3", tags={'artist': title , 'album': album, 'comments': comments})
