@@ -1,19 +1,24 @@
-album  YOASOBI 人気曲15曲リスト
-comments  YOASOBI 人気曲15曲リスト
+album  2024 冷門英文歌單《冷門好聽英文歌單》 - 好聽的英文歌2024 - 英文歌曲排行榜2024
+comments  2024 冷門英文歌單《冷門好聽英文歌單》 - 好聽的英文歌2024 - 英文歌曲排行榜2024
 start  00:00
-00:00:00  01. 夜に駆ける
-00:04:19  02. 群青
-00:08:28  03. 怪物 English Ver.
-00:11:53  04. たぶん
-00:16:10  05. ラブレター
-00:19:44  06. 優しい彗星
-00:23:24  07. 三原色
-00:27:09  08. ハルジオン
-00:30:27  09. あの夢をなぞって
-00:34:29  10. ミスター
-00:37:36  11. もう少しだけ
-00:41:17  12. ハルカ
-00:45:21  13. もしも命が描けたら
-00:48:45  14. 大正浪漫
-00:51:45  15. アンコール
-end  00:56:17
+00:00:00  1. Harley Bird, lost., Pop Mage - Save Your Tears
+00:03:10  2. loudoun, lost., Pop Mage - Feelings
+00:06:10  3. Veronica Bravo, lost., Pop Mage - Only Love Can Hurt Like This
+00:09:04  4. lost., Pop Mage, LN - Stay With Me
+00:11:48  5. Michael Shynes, lost, Pop Mage - Somewhere Only We Know
+00:15:17  6. Harley Bird, lost. & Pop Mage - Attention
+00:18:58  7. Honeyfox, lost., Pop Mage - Comethru
+00:22:13  8. Honeyfox, Leggiero, Pop Mage - Faded
+00:24:52  9. Dark Veil, lost., Pop Mage - Bones
+00:27:53  10. LYE, lost., Pop Mage - Maps
+00:30:43  11. Hannah Gracelynn, lost., Pop Mage - Just A Dream
+00:34:20  12. Elle Vee, IamCROW, Pop Mage - Bitch
+00:36:53  13. Veronica Bravo, lost., Pop Mage - I Miss U
+00:40:00  14. Zelli King, lost., Pop Mage - Love Is Gone
+00:42:56  15. Honeyfox, lost., Pop Mage - Be Kind
+00:45:16  16. loudoun, lost., Pop Mage - Miss You
+00:48:19  17. Vince Palmeri, lost., Pop Mage - Midnight Sky
+00:51:37  18. Martin Novales, Player Two, Pop Mage - Night Changes
+00:55:20  19. Veronica Bravo, lost., Pop Mage - Glimpse of Us
+00:58:12  20. Michelle Ray, lost. & Pop Mage - Always Remember Us This Way
+end  1:01:40

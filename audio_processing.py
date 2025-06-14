@@ -1,8 +1,9 @@
 import json
+import time
 from pydub import AudioSegment
 
 
-file_path = "play_list_file.txt" 
+file_path = "./play_list_file_2.txt" 
 
 jsondata = []
 playlist = []
@@ -37,10 +38,10 @@ for line in lines:
 
 if jsondata:
     jsondata[-1]["end"] = end_time
-#print(jsondata[0])
+print(jsondata[0])
 
 
-audio = AudioSegment.from_file("long_audio.mp3", format="mp3")
+audio = AudioSegment.from_file("../../long_audio_2.mp3", format="mp3")
 
 for i in range(0,len(jsondata)):
     print(jsondata[i])
@@ -51,6 +52,7 @@ for i in range(0,len(jsondata)):
     start = (int(start_time.split(":")[0]) * 3600 + int(start_time.split(":")[1]) * 60 + int(start_time.split(":")[2])) * 1000
     end = (int(end_time.split(":")[0]) * 3600 + int(end_time.split(":")[1]) * 60 + int(end_time.split(":")[2])) * 1000
     track_audio = audio[start:end]
-    print(f"/app/output/Track_{i+1}_{title}.mp3")
+    print(f"/app/output/{i+1}_{title}.mp3")
 
-    track_audio.export(f"./output/Track_{i+1}_{title}.mp3", format="mp3", tags={'artist': title , 'album': album, 'comments': comments})
+    track_audio.export(f"./output/{i+1}_{title}.mp3", format="mp3", tags={'artist': title , 'album': album, 'comments': comments})
+    time.sleep(5)
